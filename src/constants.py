@@ -1,0 +1,2 @@
+TAGS = ['love','life','knowledge','inspirational','humor','philosophy','god','truth','wisdom','romance','poetry','death','happiness','hope','faith','writting','motivational','religion','relationship','success','time','science','spirituality']
+# TAGS = ['love','life']
